@@ -1,0 +1,8 @@
+approvers:
+  - github_user_1
+  - github_user_2
+  - github_user_3
+reviewers:
+  - github_user_1
+  - github_user_2
+  - github_user_3  
